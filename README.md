@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zack</h1>
 <h3 align="center">A java developer mainly working with the Spigot API</h3>
 
-- 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **Minecraft Servers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
