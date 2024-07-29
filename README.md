@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zack</h1>
+<h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A java developer mainly working with the Spigot API</h3>
 
 
